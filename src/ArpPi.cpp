@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <Python.h>
+#include "D:\Program Files\Python36\include\Python.h"
 
 using namespace std;
 
