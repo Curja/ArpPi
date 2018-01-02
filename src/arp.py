@@ -1,6 +1,6 @@
 import os
 import sys
-import scrap.all 
+import scapy.all 
 
 interface = raw_input("interface: \n")
 victimIP = raw_input("victim: \n")
